@@ -1,2 +1,2 @@
-# Inflation-Commodity-Price-Forecasting
+# Hackathon project
 ok
